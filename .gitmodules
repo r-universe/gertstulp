@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FertNet"]
+	path = FertNet
+	url = https://github.com/gertstulp/fertnet
+	shallow = true
+	registered = true
 [submodule "ggplotgui"]
 	path = ggplotgui
 	url = https://github.com/gertstulp/ggplotgui
